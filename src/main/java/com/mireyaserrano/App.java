@@ -5,7 +5,8 @@ public class App {
         int option;
         do {
             option = 0;
-            System.out.println("Calculadora de Área - Seleccione una opción:");
+            System.out.println("Calculadora de Área by Mireya");
+            System.out.println("Selecciona una opción:");
             System.out.println("1. Círculo");
             System.out.println("2. Cuadrado");
             System.out.println("3. Triángulo");
